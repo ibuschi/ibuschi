@@ -1,3 +1,8 @@
+[Dart Changelog](https://github.com/dart-lang/sdk/blob/5d98b0eb9f8c1ff59db5b91ab202a4e5b48ea0b7/CHANGELOG.md)
+
+[Flutter Breaking changes](https://docs.flutter.dev/release/breaking-changes)  
+[Flutter Hotfixes](https://github.com/flutter/flutter/wiki/Hotfixes-to-the-Stable-Channel)
+
 // todo
 
 - 👋 Hi, I’m @ibuschi
